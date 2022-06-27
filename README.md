@@ -1,2 +1,2 @@
-# demo
+# Sample demo
 sample repo
